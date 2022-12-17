@@ -1,0 +1,22 @@
+= + - * / %
+
+> >= < <= == === != !==
+
+! && ||
+
+"I'm"   'He said"Hi"'
+
+if   else if   else
+
+for(;;){}   for(iterator of iterable){}   for(iterator in iterable){}   iterable.forEach(func(iterator,index))
+
+var   let   const
+
+typeof()
+
+prompt()   alert()   console.log()
+
+FP
+OOP
+DOM
+DataStruct

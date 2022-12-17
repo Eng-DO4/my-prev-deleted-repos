@@ -1,0 +1,15 @@
+body {
+    background-color: #E0E0E2;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form > div {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
